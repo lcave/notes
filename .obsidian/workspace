@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "d1a9f460f77956ff",
+        "id": "6b76c124cbd88ea2",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -49,7 +49,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "57ab6aef63211132",
@@ -79,9 +80,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "d1a9f460f77956ff",
-  "lastOpenFiles": []
+  "active": "6b76c124cbd88ea2",
+  "lastOpenFiles": [
+    "domain_driven_design/moment_of_breakthrough.md",
+    "domain_driven_design/ubiquitous_language.md",
+    "domain_driven_design/deep_models.md",
+    "Deep Models.md"
+  ]
 }
